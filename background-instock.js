@@ -1,0 +1,1 @@
+object.style.backgroundSize="60px 120px"
